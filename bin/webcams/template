@@ -1,0 +1,14 @@
+<div class="img">
+  <a target="_blank" href="{}">
+    <img src="{}" alt="Camera number {} Is Broken :(">
+  </a>
+  <div class="overlay">
+	<a href="" target="_blank">
+		<img href="">
+	</a>
+  </div>
+  <div class="desc">{}. {}</div>
+  <!--<div class = magnifier><img src="https://images-na.ssl-images-amazon.com/images/I/71iSN3WxolL.png"></div>-->
+</div>
+
+
