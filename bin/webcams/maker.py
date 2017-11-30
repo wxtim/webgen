@@ -1,55 +1,48 @@
 import sys
 import os
+from csv import DictReader
 
-if sys.argv[1] == 'debug':
-    debug = True
-else:
-    debug = False
 
-OUTPUT_DIRECTORY = '/home/h02/tpilling/public_html/webcams/'
-PLACE_LISTS = '/home/h02/tpilling/webcams/raw/'
-VERSION = '1.0'
-CREATION_DATE = '24/11/2016'
 
-inputs = os.listdir(PLACE_LISTS)
-output_fpaths = [OUTPUT_DIRECTORY + item.replace(".csv",".html") for item in inputs]
-input_fpaths = [PLACE_LISTS + item for item in inputs]
+OUTPUT_DIRECTORY = '/home/h02/tpilling/webgen/bin/webcams/'
+input = '/home/h02/tpilling/webgen/bin/webcams/depot_webcams/master_list.csv'
+VERSION = '1.9'
+CREATION_DATE = '30/11/2017'
 
-if debug == True:
-    print "the output and input file paths are: "
-    print output_fpaths
-    print input_fpaths
+def quality_control(webcams_ls):
+    """Take a list of webcam dictionaries and carry out quality control
+    functions"""
+    return webcams_ls
 
+def get_dashboards_list(webcams_ls):
+    """takes a list of webcam dictionary
+    returns a list of dashboards"""
+    dashboards = []
+    for key, value in webcams_ls[0].iteritems():
+        if 'dashboard' in key:
+            dashboards.append(key)
+    return dashboards
+
+def create_dashboard(webcams_list, dashboard):
+    """Takes a list of webcams and creates a dashboard style 
+    webpage"""
+    return None
+
+def creat_map(webcams_list):
+    return None
 
 def main():
-    for i, input_fpath in enumerate(input_fpaths):
-        header_data_pointer = open('/home/h02/tpilling/webcams/header', 'r')
-        camera_data = open(input_fpath, 'r')
-        camera_data_pointer = open('/home/h02/tpilling/webcams/template', 'r')
-        camera_data_template = camera_data_pointer.read()
-        output = open(output_fpaths[i], 'w')
+    """Main"""
+    reader = DictReader(open(input))
+    webcams = [line for line in reader]
+    #print webcams
+    webcams = quality_control(webcams)
+    dashboards = get_dashboards_list(webcams)
+    print dashboards
+    for dashboard in dashboards:
+        create_dashboard(webcams, dashboard)
     
-        for line in header_data_pointer.readlines():
-            output.write(line)
-        lines = camera_data.readlines()
-        lines = lines[1:]
-        for line in lines:
-            line = line.split(',')
-            if debug == True:
-                print line
-            if  'TRUE' in line[-1]:
-                url_page = line[5]
-                url_img = line[4]
-                cam_description = line[-2]
-                cam_number = line[0]
-                output.write(camera_data_template.format(url_page,
-                                                         url_img,
-                                                         cam_number,
-                                                         cam_number,
-                                                         cam_description))
-            else:
-                pass
-
 
 if __name__ == "__main__":
     main()
+    

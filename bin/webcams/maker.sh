@@ -1,3 +1,3 @@
 #!/bin/bash
 module load scitools/default-next
-~/webcams/maker.py
+python ~/webgen/bin/webcams/maker.py normal
