@@ -1,0 +1,89 @@
+Cat No,Short Name,Lat,Lon,Webcam address,Host Website,Altitude,Direction,Notes,Dashboard,Map
+1,Shrewsbury,52.710511,-2.757498,http://webcams.static.shropshire.gov.uk/general/QL00001.jpg,https://www.shropshire.gov.uk/webcams/webcam-views-from-the-theatre-severn,100,150,View From Severn Theartre,TRUE,
+2,Long Mynd N,52.51869,-2.880864,http://webcams.static.shropshire.gov.uk/general/TS00001.jpg,https://www.shropshire.gov.uk/webcams/webcam-views-from-the-theatre-severn,100,350,View From Severn Theartre,TRUE,
+3,Long Mynd W,52.51869,-2.880864,http://myndcam.com/LMSC.jpg,http://www.longmynd.org/,1400,270,Yewtree bank (Long Mynd) looking north. Camera ~ 1400 ft amsl; Left hand ridge ~ 3600 M away,TRUE,
+4,Keswick - Skiddaw,54.599186,-3.136456,http://myndcam.com/west.jpg,http://www.longmynd.org/,1400,350,Yewtree bank (Long Mynd) looking west/ Camera ~ 1400 ft amsl; Corndon Hill top let 11km / 1600 ft; Stiperstones right 6-8km / 1400 ft ,TRUE,
+5,,,,http://www.arenig.net/wplcamera2/wplcamera2.jpg,http://www.welshpoolairport.co.uk/webcam/,,,Welshpool Airport Looking NE,TRUE,
+6,,,,http://www.arenig.net/wplcamera2/wplcameraSW.jpg,http://www.welshpoolairport.co.uk/webcam/,,,Welshpool Airport Looking SW,TRUE,
+7,,,,http://chesterweather.org.uk/weather/FTPPic.jpg,http://chesterweather.org.uk/weather/FTPPic.jpg,,,"Very little is known about this one, but it probably faces N given the lack of sun.",TRUE,
+8,,,,http://wolverhamptonairport.co.uk/webcam/webcam2_1.jpg,http://www.wolverhamptonairport.co.uk/about-halfpenny-green/webcam/,,,Halfpenny Green Looking N (010 degrees?); probably atop hanger Altitude ~ 300 ft; <br>Ridge 3000 - 4000 M; becoming more distant on the left.,TRUE,
+9,,,,http://wolverhamptonairport.co.uk/webcam/webcam1_1.jpg,http://www.wolverhamptonairport.co.uk/about-halfpenny-green/webcam/,,,Halfpenny Green Looking E from top of the the tea-shop(?).  <br>Buildings 150-200 M; White house (star) 750M; Trees near edge of airfield 500-800 M; Ridge 2500 - 3000 M,TRUE,
+10,,,,http://www.maccinfo.com/Webcam/Webcamn200.jpg,http://www.derbyshireheritage.co.uk/Menu/webcams/camlist.php#catandfiddle,,,Cat and Fiddle 1690 FT AMSL facing NNW. <br>The hill is Shining Tor 2000 M / 1800 ft. Lights at night likely Macclesfield 8-9km away.,TRUE,
+11,,,,http://cameratest.brmlaw.co.uk/image/brmwebcam.jpg,http://www.brmlaw.co.uk/chesterfield-webcam/,,,Chesterfield Saltergate,TRUE,
+12,,,,http://www.outside.co.uk/webcam/web.jpg,http://www.outside.co.uk/webcam/web.jpg,,,Millstone Edge Camera ~450 ftBRM <br>Mother cap / Over Owler Tor - Approx 2000 M distant / 1400 ft,TRUE,
+13,,,,http://www.jb.man.ac.uk/common/webcam.jpg,http://www.jb.man.ac.uk/webcam/,,,Jodrell Bank - Lovell Telescope,TRUE,
+14,,,,http://www.jb.man.ac.uk/distance/observatory/images/webcam.jpg,http://www.jb.man.ac.uk/webcam/,,,Jodrell Bank - 7M Telescope; <br>As far as I can tell the Lovell Telescope (the big 'un) is 270-370 M away; height 270 FT and the little one is 160m away.,TRUE,
+15,,,,http://www.fhc.co.uk/weather/images/me_huge.jpg,http://www.fhc.co.uk/weather/images/me_huge.jpg,,,Moel Elio from Elidir Fach looking SW. <br>Camera no lower than 1800 ft (height of top of quarry). Moel Elio ~ 6 KM distant / 2400 ft,TRUE,
+16,,,,http://ovmro.uk/webcam/02.jpg,http://www.ogwen-rescue.org.uk/webcams/,,,Ogwen Valley: Looking W at Y Garn from ~1000 ft. <br> Trees ~ 600 M; Near/far end of Lake(YHA Lights?) ~ 800M - 2400 M; Y Garn Peak 4400 M / 3100 FT,TRUE,
+17,,,,http://ovmro.uk/webcam/03.jpg,http://www.ogwen-rescue.org.uk/webcams/,,,Capel Curig: Facing west from same location as Ogwen valley,TRUE,
+18,,,,http://ovmro.uk/webcam/01.jpg,http://www.ogwen-rescue.org.uk/webcams/,,,Tryfan from same location as Ogwen valley <br>Peak approx 3000 FT / 2km>,TRUE,
+19,,,,http://www.fhc.co.uk/weather/images/sn_huge.jpg,http://www.fhc.co.uk/weather/images/sn_huge.jpg,,,Snowdon Summit from Elidir Fach. Presumably near the other Elidir Fach webcam.,TRUE,
+20,,,,http://www.nationalparks.gov.uk/snwebcam/webcam1.jpg,http://www.nationalparks.gov.uk/snwebcam/webcam1.jpg,,,Snowdon Summit from Looking North from Penrhyndeudraeth: camera < 60 ft amsl<br> Summit ~16 KM / 3 568 FT,TRUE,
+21,,,,http://www.fhc.co.uk/weather/images/em_huge.jpg,http://www.fhc.co.uk/weather/images/em_huge.jpg,,,Electric Mountain Wx; <br> Looking NE <BR>Peak is believed to be Elidr Fawr 3.3 KM / 3029 FT,TRUE,
+22,,,,http://cymau.com/webcam/resized.jpg,http://cymau.com/webcam/resized.jpg,,,Anglesey Snowdon Panorama (Facing SE; alt <50 ft)<br>Labels from Left to Right<br>Glyder ~26 km / ~3200 ft<br>Lanberis Pass ~ 1500 ft<br>Snowdon ~25 km / ~3600 ft<br>LLyn Cwellyn ~600 ft<br>Mynydd Mawr ~19 km / ~2300 ft,TRUE,
+23,,,,http://www.ceredigion.gov.uk/english/visiting/aber_webcam/img/994.jpg,http://www.ceredigion.gov.uk/english/visiting/aber_webcam/img/994.jpg,,,Aberyswith Seafront. Depending on height of this webcam the sea horizon will be somewhere between 6-8km,TRUE,
+24,,,,http://www.beacons-npa.gov.uk/webcam/images/npvc/main_en.jpg,http://www.beacons-npa.gov.uk/webcam/images/npvc/main_en.jpg,,,Mountain Visitor Centre Brecon Beacons Camera looking SE ~1000ft: Mountain is Pen Y Fan ~5.5km / 2800ft,TRUE,
+25,,,,http://www.beacons-npa.gov.uk/webcam/images/cyncp/main_en.jpg,http://www.beacons-npa.gov.uk/webcam/images/cyncp/main_en.jpg,,,Craig-y-Nos Country Park Camera facing NE ~600ft. Hill Craig u Rhiwarth ~ 500m distant / 1000ft,TRUE,
+26,,,,http://webcam.whr.co.uk/porthmadog/webcam00.jpg,http://webcam.whr.co.uk/porthmadog/webcam00.jpg,,,Welsh Highland Railway Porthmadoc station (hello Russell the tank engine),TRUE,
+27,,,,http://www.ingleboroughwebcam.co.uk/images/cam_images/SD_images/SD_marked_wide0000.jpg,http://www.ingleboroughwebcam.co.uk/images/cam_images/SD_images/SD_marked_wide0000.jpg,,,Ingleborough <br> Ingleborough  / 2372 FT,TRUE,
+29,,,,http://www.ygc.co.uk/webcam/CameraSouth_1.jpg,http://www.ygc.co.uk/webcam/CameraSouth_1.jpg,,,Sutton Bank looking W. Hills in the distance will be the dales >20km away,TRUE,
+30,,,,http://www.swaledaleyorkshire.com/images/source/WebCamPicture000.jpg,http://www.swaledaleyorkshire.com/images/source/WebCamPicture000.jpg,,,"Swaledale looking south from Low Row Camera ~ 770 FT. <br>Farm:160m; Trees by river 400-600m(Left to Right) Edge of Access Land (brown, no walls) 1600m;(Pickerstone Ridge) ~1600ft / 2 km",TRUE,
+31,,,,http://arnsidechipshop.co.uk/pierwebcam/image.jpg,http://arnsidechipshop.co.uk/pierwebcam/image.jpg,,,Arnside Pier Looking NW(Morecombe Bay) rail bridge 610-330m (Left to right),TRUE,
+32,,,,http://www.ullswater-steamers.co.uk/images/webcam/ispy.jpg,http://www.ullswater-steamers.co.uk/images/webcam/ispy.jpg,,,Looking SW camera ~150ft<br>Left-Right Swarth Fell:1700ft/; Pikeawassa: 1400ft/; Beda Head: 1600ft/; Hallin Fell 1200ft/5km; High Dodd 1600ft/,TRUE,
+33,,,,http://www.glenriddingcybercafe.co.uk/ispy.jpg,http://www.glenriddingcybercafe.co.uk/ispy.jpg,,,Glenridding Hotel - Facing SE/150ft<br>Far Shore of Lake 600(left)-700m(right); Steel Edge (Top Right) 1400-1600ft/1200m (very rough),TRUE,
+34,,,,http://bassenthwaite-sc.x10.bz/bsc/album/image01.jpg,http://bassenthwaite-sc.x10.bz/bsc/album/image01.jpg,,,Bassenthwaite Sailing Club 200ft<br>Far Shore 1-1.3km; Skiddaw (right) 3km/1500-3000ft(questionable whether you can see the highest bit); Great Cockup (left) 4km/1700ft,TRUE,
+35,,,,http://www.georgefisher.co.uk/live-webcam/fullsize.jpg,http://www.georgefisher.co.uk/live-webcam/fullsize.jpg,,,"Looking North from Keswick towards Skiddaw - Summit 6km distant, 2980ft. To the right Little Man at 2770ft and the left Carl Side at 2390 both about 1km closer.",TRUE,
+36,,,,http://www.cybermoor.org/webcam/bayles_00001.jpg,http://www.cybermoor.org/webcam/bayles_00001.jpg,,,Bayles Moor Looking NE 1200ft<br>Right; Middle Fell 3.7km/1800ft; Left - Newshields Moss 4km/1700ft; front left; Near Farm 1 km; Alston 1.5km,TRUE,
+37,,,,http://www.cybermoor.org/webcam/nenthead_00001.jpg,http://www.cybermoor.org/webcam/nenthead_00001.jpg,,,Looking SW From 1500FT<br>Trees by river 330m; Nunnery Hill 1.8km/2200FT; 3.3km/1850FT,TRUE,
+38,,,,http://www.cybermoor.org/webcam/howhill_00001.jpg,http://www.cybermoor.org/webcam/howhill_00001.jpg,,,Looking SE from 1340 FT <br>Old Mine(rhs of road)360m;Near Trees (lhs of road) 600m; Burhope Seat (big hill)7.8km/2400FT,TRUE,
+39,,,,http://www.skyreholme.org/skyrecam/sk_current.jpg,http://www.skyreholme.org/skyrecam/sk_current.jpg,,,"Skyreholm camera 170ft, Simon's Seat (rocks, left) less than 2 km, 1550ft",TRUE,
+40,,,,https://community.dur.ac.uk/physics.astrolab/image2.jpg?dummy=1462373035991,https://community.dur.ac.uk/physics.astrolab/image2.jpg?dummy=1462373035991,,,Durham Astrophysics Building; Camera 80ft AMSL.<br>Cathederal 730: Main tower 218ft above ground - 280ft amsl,TRUE,
+41,,,,http://84.92.91.198:8090/snapshot.cgi?user=user&pwd=user,http://84.92.91.198:8090/snapshot.cgi?user=user&pwd=user,,,"Borders Gliding Club - <a href=""http://www.bordersgliding.co.uk/Weather.html"" target=""_blank"">See also their Wx station</a>",TRUE,
+42,,,,http://www.midlandgliding.club/piwebcam/hangarcam/hangarcam.html,http://www.midlandgliding.club/piwebcam/hangarcam/hangarcam.html,,,View East from Long Mynd,TRUE,
+43,,,,http://www.midlandgliding.club/piwebcam/piwebcam/cam-1.htm,http://www.midlandgliding.club/piwebcam/piwebcam/cam-1.htm,,,View West from Long Mynd,TRUE,
+44,,,,http://holfuy.com/en/camera/295,http://holfuy.com/en/camera/295,,,Sarn,TRUE,
+45,Aberdeen,57 15 N,002 11 W,,http://www.aberdeencity.gov.uk/web/images/webcam/harbour_00001.jpg,,,,,TRUE
+46,Aberystwyth,52 41 N,004 08 W,,https://www.webcamgalore.com/webcam/United-Kingdom/Aberystwyth/5106.html,,,,,TRUE
+47,Ambleside,54 43 N,002 96 W,,http://www.climbers-shop.com/web-cam.aspx,,,L-R 2027 2513 2827 2044 FT,,TRUE
+48,Bayles,54 47 N,002 27 W,,http://www.cybermoor.org/travel/webcams,,,,,TRUE
+49,Berwick,55 46 N,002 02 W,,http://lethamshank.co.uk/met/localwx.htm?page=wx_cam,,,,,TRUE
+50,Brampton,54 36 N,002 30 W,,http://www.bramptonweather.co.uk/webcam.html,,,,,TRUE
+51,Bude,50 49 N,004 32 W,,http://www.budewebcam.co.uk/surf.htm,,,,,TRUE
+52,Burnham_overy_Staithe,52 57 N,000 44 E,,http://news.bbc.co.uk/local/norfolk/hi/people_and_places/nature/newsid_8420000/8420884.stm,,,,,TRUE
+53,Ogwen_mountain_rescue,53.127039,-3.983215,,https://ovmro.uk/webcam/02.jpg,,,,,TRUE
+54,Croft_on_Tees,54 48 N,001 55 W,,http://www.croftwireless.co.uk/weather/,,,,,TRUE
+55,Dunoon,55 95 N,004 92 W,,http://www.argyll-bute.gov.uk/newsroom/currentaffairs/dunooncamarticle,,,,,TRUE
+56,Durham,54 46 N,001 34 W,,http://www.dur.ac.uk/physics.astrolab/webcam2.html,,,,,TRUE
+57,Falkirk,56 00 N,003 79 W,,http://www.scotweather.co.uk/?page=webcam,,,Looks SE click on picture to open webcam,,TRUE
+58,Glencoe,56 40 N,005 06 W,,http://www.glencoemountain.co.uk/webcams.html,,,,,TRUE
+59,Glenshee,56 48 N,003 26 W,,http://www.webcam-ski.com/webcams/interfaces/glenshee/interface.php?pk_interface=278&m=images&r=panoramique,,,,,TRUE
+60,Greenlaw,55 42 N,002 28 W,,http://www.bordersweather.co.uk/wxcam.php,,,,,TRUE
+61,Kinlochbervie,58 46 N,005 05 W,,http://www.kinlochbervie.info/index2.htm,,,,,TRUE
+62,Ingleborough,54 10 N,002 24 W,,http://www.ingleboroughwebcam.co.uk/,,,2327 FT,,TRUE
+63,Inverurie,57 16 N,002 23 W,,http://www.ardgrain.com/inverurie-webcam,,,,,TRUE
+64,Isle_of_Lewis,58 30 N,006 16 W,,http://www.eoropaidh.co.uk/webcam.htm,,,,,TRUE
+65,Isle_of_Mull,56 31 N,005 54 W,,http://www.jkaydesign.co.uk/netcampage.html,,,,,TRUE
+66,Isle_of_Skye,57 16 N,005 44 W,,http://trafficscotland.org/lev/index.aspx?mi=12&cam=127,,,via Traffic Scotland,,TRUE
+67,Lochgelly_Fife,56 13 N,003 31 W,,http://www.fifeweather.co.uk/weathercam.php,,,,,TRUE
+68,Mablethorpe,52 20 N,000 15 W,,http://www.extremehorizon.com/surf-shop/mablethorpe_webcam.html,,,,,TRUE
+69,Near_Buxton,53 14 N,002 00 W,,http://www.maccinfo.com/cat/,,,,,TRUE
+70,Nenthead,54 47 N,002 20 W,,http://www.bbc.co.uk/cumbria/content/webcams/nenthead_webcam.shtml,,,,,TRUE
+71,New_Deer,57 30 N,002 12 W,,http://www.ardgrain.com/new-deer-webcam,,,,,TRUE
+72,Newquay,50 24 N,005 04 W,,http://www.newquayweather.com/,,,,,TRUE
+73,Ousdale_Caithness,58 09 N ,003 35 W,,http://trafficscotland.org/lev/index.aspx?mi=9&cam=87,,,via Traffic Scotland,,TRUE
+74,Overscaig,58 10 N,004 41 W,,http://www.overscaighotel.co.uk/WebCam/index.shtml,,,,,TRUE
+75,Peel,54 13 N,004 41 W,,http://www.dotet.co.uk/index.php?type=webcam&id=2,,,Looking W,,TRUE
+76,Redcar,54 62 N,001 07 W,,http://www.redcarlifeboat.org.uk/Pages/album/webcam.html,,,,,TRUE
+77,Robin_Hoods_Bay,54 43 N,000 53 W,,http://www.rhbmesh.net/rhbmesh_webcam2.php,,,,,TRUE
+78,Rhosneigr,53 13 N,004 31 W,,http://www.funsportonline.co.uk/default.aspx,,,,,TRUE
+79,Sabhal_mor_Ostaig_Isle_of_Skye,57 05 N,005 53 W,,http://www.blaven.com/webcamarchive.aspx?webcam=01&date=,,,,,TRUE
+80,Scrabster,58 36 N,003 33 W,,http://www.tugmistress.co.uk/index.php?option=com_wrapper&view=wrapper&Itemid=5,,,,,TRUE
+81,Skiddaw,54 38 N,003 08 W,,http://www.georgefisher.co.uk/pages/webcam.asp,,,height 3054 FT,,TRUE
+82,Snaefell,54 15 N,004 27 W,,http://www.dotet.co.uk/index.php?type=webcam&id=3,,,height 2034 FT,,TRUE
+83,Sutton_Bank,54 14 N,001 13 W,,https://www.ygc.co.uk/websitecamera/,,,,,TRUE
+84,Swaledale,54.379124,-2.024851,,http://www.swaledaleyorkshire.com/page9.htm,,,,,TRUE
+85,Thatcham,51 24 N,001 15 W,,http://www.thatcham-weather.info/,,,,,TRUE
+86,Torquay,50 28 N,003 32 W,,http://www.bbc.co.uk/devon/content/webcams/torquay_harbour_webcam.shtml,,,,,TRUE
+87,Whitby,52 29 N,000 37 W,,http://www.whitbywebcam.co.uk/,,,,,TRUE
+88,Whitehaven,54 32 N,003 35 W,,http://www.bbc.co.uk/cumbria/content/webcams/whitehaven_beacon1_webcam.shtml,,,,,TRUE
+89,Theatre_severn,52.710511,-2.757498,,http://webcams.static.shropshire.gov.uk/general/QL00001.jpg,,,,,TRUE
